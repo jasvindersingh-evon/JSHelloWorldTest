@@ -9,6 +9,10 @@
       "ios"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasvindersingh-evon/JSHelloWorldTest.git"
+  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",

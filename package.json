@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-js-hello-world",
+  "version": "0.0.1",
+  "description": "Plugin to test Hello World",
+  "cordova": {
+    "id": "cordova-plugin-js-hello-world",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Jasvinder Singh",
+  "license": "ISC"
+}
